@@ -1,1 +1,4 @@
-x=a+b
+#!/bin/bash
+#
+
+a=x+y
